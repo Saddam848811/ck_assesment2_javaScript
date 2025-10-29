@@ -27,6 +27,5 @@ function handleClick() {
     return;
   }
 
-  // All checks passed → navigate
   window.location.href = "https://example.com";
 }
